@@ -6,7 +6,7 @@ Usage:
 2. Install stuff either by:
 
 [Alternative A] Keep default apps, and run the whole install script: 
-  - download [maxetup.sh](https://raw.githubusercontent.com/robertsugar/maxetup/master/maxetup.sh) (File -> Save As)
+  - download [maxetup.sh](https://raw.githubusercontent.com/robertsugar/maxetup/master/maxetup.sh) or its TinyURL version [tinyurl.com/maxxetup](tinyurl.com/maxxetup) (File -> Save As) 
   - on the terminal run: ```sh ~/Downloads/maxetup.sh```
   - if fails due to permission issues run: ```sudo sh ~/Downloads/maxetup.sh```  
 
