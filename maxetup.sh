@@ -6,6 +6,7 @@
 #1. Open Terminal app: Applications → Utilities → Terminal
 #2. Install stuff either by:
 #   [Alternative A] Keep default apps, and run the whole install script:
+#       - download this file or its TinyURL version from tinyurl.com/maxxetup (File -> Save As)
 #       - on the terminal run: sh ~/Downloads/maxetup.sh
 #       - if fails due to permission issues run: sudo sh ~/Downloads/maxetup.sh
 #   [Alternative B] Copy-paste the lines you like in the terminal
