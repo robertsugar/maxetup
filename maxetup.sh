@@ -34,8 +34,12 @@ brew cask install caffeine
 brew cask install 1password
 brew cask install skype
 brew cask install vlc
+brew cask install the-unarchiver
+brew cask install diffmerge
+brew cask install sourcetree
+brew cask install virtualbox
 
-#Trial versions, but a great tools nonetheless
+#Trial versions, but great tools nonetheless
 #brew cask install sublime-text
 #brew cask install path-finder
 
