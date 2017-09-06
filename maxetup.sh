@@ -1,5 +1,17 @@
 #!/usr/bin/env bash
 
+#Script for setting up a new Mac.
+
+#Usage:
+#1. Open Terminal app: Applications → Utilities → Terminal
+#2. Install stuff either by:
+#   [Alternative A] Keep default apps, and run the whole install script:
+#       - on the terminal run: sh ~/Downloads/maxetup.sh
+#       - if fails due to permission issues run: sudo sh ~/Downloads/maxetup.sh
+#   [Alternative B] Copy-paste the lines you like in the terminal
+#3. Enjoy!
+
+#---------- the script ----------
 # Install command-line developer tools:  
 xcode-select —install
 
