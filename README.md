@@ -6,10 +6,12 @@ Usage:
 2. Install stuff either by:
   a) Keep default apps, and running the whole install script:
   
-    - download [maxetup.sh](https://raw.githubusercontent.com/robertsugar/maxetup/master/maxetup.sh)
-    - run ```sh ~/Downloads/maxetup.sh```
+    - download [maxetup.sh](https://raw.githubusercontent.com/robertsugar/maxetup/master/maxetup.sh) (File -> Save As)
+    - on the terminal run: ```sh ~/Downloads/maxetup.sh```
     - if fails due to permission issues run: ```sudo sh ~/Downloads/maxetup.sh```
     
   https://raw.githubusercontent.com/robertsugar/maxetup/master/maxetup.sh
   
   b) Open install script [maxetup.sh](maxetup.sh) and copy-paste the lines you like in the terminal
+  
+  3. Enjoy your new Mac!
