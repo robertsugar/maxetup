@@ -34,5 +34,9 @@ brew cask install 1password
 brew cask install skype
 brew cask install vlc
 
+#Trial versions, but a great tools nonetheless
+#brew cask install sublime-text
+#brew cask install path-finder
+
 #for any other applications use: brew cask search
 #for command line utilities/libraries use: brew search
