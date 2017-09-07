@@ -39,9 +39,16 @@ brew cask install diffmerge
 brew cask install sourcetree
 brew cask install virtualbox
 
-#Trial versions, but great tools nonetheless
-#brew cask install sublime-text
-#brew cask install path-finder
+#Trial versions (potentially infinite), but great tools nonetheless
+# brew cask install sublime-text
+# brew cask install path-finder
+
+#Additional random tools some find useful
+# brew cask install alfred
+# brew cask install fluid
+# brew cask install spotify
+# brew cask install skitch
+# brew cask install zotero
 
 #for any other applications use: brew cask search
 #for command line utilities/libraries use: brew search
