@@ -26,7 +26,6 @@ brew tap caskroom/cask
 
 brew cask install iterm
 brew cask install slack
-brew cask install pycharm
 brew cask install quip
 brew cask install google-chrome
 brew cask install evernote
